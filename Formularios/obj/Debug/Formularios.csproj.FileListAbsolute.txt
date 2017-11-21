@@ -1,0 +1,32 @@
+C:\Users\Osw\source\repos\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Osw\source\repos\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Osw\source\repos\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.Form2.resources
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.Form3.resources
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.Form4.resources
+C:\Users\Osw\source\repos\Formularios\Formularios\obj\Debug\Formularios.Form5.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\bin\Debug\Formularios.exe
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.frmInicioSesion.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.Form2.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.Doctor.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.RegistroUsuario.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.frmRegistroPaciente.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.RegistroCita.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.Form7.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.Form8.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.Form9.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.exe
+C:\Users\Osw\Documents\Visual Studio 2017\Projects\Formularios\Formularios\obj\Debug\Formularios.pdb
